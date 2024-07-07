@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# seminar data and logs
+*mnist
+*speech_commands
+*wandb
+
 # Distribution / packaging
 .Python
 build/

@@ -13,7 +13,7 @@ This is a repository for our new event: a Deep Learning Summer Bootcamp.
     - Seminar: Introduction to `pytorch`
     - Lecture 2: Python Dev Tools and Git
 - [__day02__](./day02) Basic Model architectures
-    - Lecture: Fully-connected and Convolutional Neural Networks
+    - Lecture: Fully-connected and Convolutional Neural Networks, ResNet
     - Seminar: Models in `pytorch` and training pipeline
     - Lecture 2: Recurrent Neural Networks, BatchNorm, LayerNorm
     - Seminar 2: TBD
@@ -33,3 +33,8 @@ Bootcamp materials and teaching were delivered by:
 - Petr Grinberg
 - Seyed Parsa Neshaei
 - Eric Bezzam
+- Federico Stella
+- Atli Kosson
+- Cristian Cioflan
+- Skander Moalla
+- Vinitra Swamy
