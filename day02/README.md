@@ -1,8 +1,12 @@
 # Day 02
 
-* [Lecture slides 1](TBA)
-* [Seminar 1](Seminar_Models_and_Pipeline.ipynb)
-* [Lecture slides 2](TBA)
-* [Seminar 2](TBA)
+Part One:
+* [Lecture slides](TBA)
+* [Seminar](Seminar_Models_and_Pipeline.ipynb)
+* [Recording on YouTube](TBA)
+
+Part Two:
+* [Lecture slides](TBA)
+* [Seminar](TBA)
 * [Recording on YouTube](TBA)
 
