@@ -6,7 +6,7 @@ Part One:
 * [Recording on YouTube](TBA)
 
 Part Two:
-* [Lecture slides](TBA)
-* [Seminar](TBA)
+* [Lecture slides](Lecture_Slides_RNN-LSTM.pdf)
+* [Seminar](Seminar_RNN-LSTM.ipynb)
 * [Recording on YouTube](TBA)
 
