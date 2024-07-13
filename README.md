@@ -41,7 +41,7 @@ This is a repository for our new event: a Deep Learning Summer Bootcamp.
     - Seminar: TBD
     - Lecture 2: TBD
     - Seminar 2: TBD
-- [__day08__](./day08) DeepRL, XAI, and multi-model networks
+- [__day08__](./day08) DeepRL, XAI, and Multimodal Networks
     - Lecture: TBD
     - Seminar: TBD
     - Lecture 2: TBD
