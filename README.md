@@ -54,7 +54,7 @@ This is a repository for our new event: a Deep Learning Summer Bootcamp.
 
 # Resources
 
-* [Recordings on YouTube](TBA)
+* [Recordings on YouTube](https://youtube.com/playlist?list=PLpYenI2Zwc7ZpUcnP18vDOD__wiwbfoua)
 
 # Contributors & bootcamp staff
 
