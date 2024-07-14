@@ -21,12 +21,12 @@ This is a repository for our new event: a Deep Learning Summer Bootcamp.
     - Lecture: Transformer
     - Seminar: Implementation of Transformer in `pytorch`
     - Seminar 2: `WandB`, experiments configuration and code structure  
-- [__day04__](./day04) Computer Vision
+- [__day04__](./day04) Deep Learning in Audio
     - Lecture: TBD
     - Seminar: TBD
     - Lecture 2: TBD
     - Seminar 2: TBD
-- [__day05__](./day05) Deep Learning in Audio
+- [__day05__](./day05) Computer Vision
     - Lecture: TBD
     - Seminar: TBD
     - Lecture 2: TBD
