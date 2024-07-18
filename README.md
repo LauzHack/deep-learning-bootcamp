@@ -22,14 +22,14 @@ This is a repository for our new event: a Deep Learning Summer Bootcamp.
     - Seminar: Implementation of Transformer in `pytorch`
     - Seminar 2: `WandB`, experiments configuration and code structure  
 - [__day04__](./day04) Deep Learning in Audio
-    - Lecture: TBD
-    - Seminar: TBD
-    - Lecture 2: TBD
-    - Seminar 2: TBD
+    - Lecture: Signal Processing basics, ASR, TTS, VC, Speech Denoising,
+    - Seminar: Keyword Spotting
+    - Lecture 2: Anti-Spoofing and Graph Neural Networks
+    - Seminar 2: Graph Neural Networks with `PyTorch Geometric` and `DGL`
 - [__day05__](./day05) Computer Vision
-    - Lecture: TBD
-    - Seminar: TBD
-    - Lecture 2: TBD
+    - Lecture: Object Detection
+    - Seminar: YOLO
+    - Lecture 2: Segmentation
     - Seminar 2: TBD
 - [__day06__](./day06) Distributed Deep Learning and On-Device Learning
     - Lecture: TBD

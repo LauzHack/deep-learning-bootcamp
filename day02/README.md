@@ -8,5 +8,4 @@ Part One:
 Part Two:
 * [Lecture slides](Lecture_Slides_RNN-LSTM.pdf)
 * [Seminar](Seminar_RNN-LSTM.ipynb)
-* [Recording on YouTube](TBA)
-
+* [Recording on YouTube](https://youtu.be/1X_hZjJ95kc)

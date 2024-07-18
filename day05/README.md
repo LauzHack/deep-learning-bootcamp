@@ -4,7 +4,8 @@ For the YOLOv1 notebook, download the related dataset [from Kaggle](https://www.
 
 Part One:
 * [Lecture slides](TBA)
-* [Seminar](TBA)
+* [Seminar, notebook 1](YOLOv1.ipynb)
+* [Seminar, notebook 2](YOLOv8.py)
 * [Recording on YouTube](TBA)
 
 Part Two:
