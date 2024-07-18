@@ -52,6 +52,17 @@ This is a repository for our new event: a Deep Learning Summer Bootcamp.
     - Lecture: TBD
     - Seminar: TBD
 
+# Projects 
+
+Projects on different topics to get some practical experience:
+
+- [__ASR__](./project_asr) Automatic Speech Recognition (Speech To Text)
+- [__GAN__](./project_gan) Generative Adversarial Network (Image Generation and Neural Vocoder)
+- [__AS__](./project_as) Anti-Spoofing
+- TBD
+
+To do all the heavy computations, use free Google Colab (8h/day) or Kaggle GPUs (30h/week).
+
 # Resources
 
 * [Recordings on YouTube](https://youtube.com/playlist?list=PLpYenI2Zwc7ZpUcnP18vDOD__wiwbfoua)
