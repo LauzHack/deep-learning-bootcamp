@@ -1,5 +1,7 @@
 # Day 05
 
+For the YOLOv1 notebook, download the related dataset [from Kaggle](https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection)
+
 Part One:
 * [Lecture slides](TBA)
 * [Seminar](TBA)
