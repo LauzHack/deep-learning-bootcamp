@@ -1,6 +1,8 @@
 # Project: Generative Adversarial Network
 
-In this project, you can either work with [Images](#task-image) or [Audio](#task-audio)
+In this project, you can either work with [Images](#task-image) or [Audio](#task-audio).
+
+We recommend using our [project template](https://github.com/Blinorot/pytorch_project_template) and modify it to support GAN training (having two optimizers instead of one, etc.).
 
 ## Task, Image
 
