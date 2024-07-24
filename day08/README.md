@@ -1,7 +1,7 @@
 # Day 08
 
-Part One:
-* [Lecture slides](TBA)
+Part One - XAI, Vinitra Swamy:
+* [Lecture slides](ExplainableAI_VinitraSwamy.pdf)
 * [Seminar](TBA)
 * [Recording on YouTube](TBA)
 
