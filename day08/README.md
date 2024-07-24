@@ -1,7 +1,8 @@
 # Day 08
 
-Part One - XAI, Vinitra Swamy:
+Special Topics: XAI, Vinitra Swamy:
 * [Lecture slides](ExplainableAI_VinitraSwamy.pdf)
+* [XAI Demos](https://github.com/epfl-ml4ed/mlbd-2023/blob/main/lectures/week-13/13-demo-version.ipynb)
 * [Seminar](TBA)
 * [Recording on YouTube](TBA)
 
