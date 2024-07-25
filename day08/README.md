@@ -6,8 +6,10 @@ Special Topics: XAI, Vinitra Swamy:
 * [Seminar](TBA)
 * [Recording on YouTube](TBA)
 
-Part Two:
-* [Lecture slides](TBA)
-* [Useful GitHub Repo](TBA)
+Part Two: Multimodality (NLP + Computer Vision) and Coordinate Networks, Federico Stella
+* [Lecture slides on Multimodality](Multimodality.pdf)
+* [Lecture slides on Coordinate Networks](CoordinateNetworks.pdf)
+* [Useful Jupyter Notebook](https://github.com/moein-shariatnia/OpenAI-CLIP/blob/master/OpenAI%20CLIP%20Simple%20Implementation.ipynb)
+* [Another useful Notebook](https://github.com/bayesgroup/HSE_ML_research_seminar_22_23/blob/main/4th%20year/Катя/18%20-%20Flamingo/code.ipynb)
 * [Recording on YouTube](TBA)
 
