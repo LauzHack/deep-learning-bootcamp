@@ -62,6 +62,8 @@ Projects on different topics to get some practical experience:
 
 To do all the heavy computations, use free Google Colab (8h/day) or Kaggle GPUs (30h/week).
 
+Audio Projects are based on [HSE DLA Course](https://github.com/markovka17/dla).
+
 # Resources
 
 * [Recordings on YouTube](https://youtube.com/playlist?list=PLpYenI2Zwc7ZpUcnP18vDOD__wiwbfoua)
