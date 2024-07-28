@@ -29,28 +29,27 @@ This is a repository for our new event: a Deep Learning Summer Bootcamp.
 - [__day05__](./day05) Computer Vision
     - Lecture: Object Detection
     - Seminar: YOLO
-    - Lecture 2: Segmentation
-    - Seminar 2: TBD
-- [__day06__](./day06) Distributed Deep Learning and On-Device Learning
-    - Lecture: TBD
-    - Seminar: TBD
-    - Lecture 2: TBD
-    - Seminar 2: TBD
+    - Lecture 2: Image Segmentation
+    - Seminar 2: SAM and YOLO for Segmentation
+- [__day06__](./day06) Efficient Deep Learning and On-Device Learning
+    - Lecture: Efficient Single-GPU Training and Distributed Deep Learning
+    - Seminar: `PyTorch` Examples
+    - Lecture 2: On-Device Learning, Domain Adaptation, and Continuous Learning
+    - Seminar 2: PULP-TrainLib
 - [__day07__](./day07) Natural Language Processing
-    - Lecture: TBD
-    - Seminar: TBD
-    - Lecture 2: TBD
-    - Seminar 2: TBD
-- [__day08__](./day08) DeepRL, XAI, and Multimodal Networks
-    - Lecture: TBD
-    - Seminar: TBD
-    - Lecture 2: TBD
-    - Seminar 2: TBD
-    - Lecture 3: TBD
-    - Seminar 3: TBD
-- [__day09__](./day09) Model Fine-tuning
-    - Lecture: TBD
-    - Seminar: TBD
+    - Lecture: Introduction to NLP: Tokenization, Embeddings, CBOW, BERT
+    - Seminar: 
+    - Lecture 2: BERT, Knowledge Distillation, GPT and LLMs
+    - Seminar 2: 
+- [__day08__](./day08) DeepRL, XAI, Multimodal Networks and 3D CV
+    - Lecture: Deep Reinforcement Learning
+    - Lecture 2: Explainable AI (XAI)
+    - Seminar 2: Code example
+    - Lecture 3: Multimodality (NLP + Computer Vision) and Coordinate Networks
+    - Seminar 3: Code examples
+- [__day09__](./day09) Model Fine-tuning and Hugging Face
+    - Lecture: Fine-tuning and Hugging Face
+    - Seminar: Fine-Tuning LLM
 
 # Projects 
 

@@ -1,12 +1,16 @@
 # Day 08
 
-Special Topics: XAI, Vinitra Swamy:
+Part One: Deep Reinforcement Learning, Skander Moalla
+
+* [Lecture slides](RL-bootcamp.pdf)
+* [Useful GitHub Repo](https://github.com/yandexdataschool/Practical_RL)
+
+Part Two: XAI, Vinitra Swamy
 * [Lecture slides](ExplainableAI_VinitraSwamy.pdf)
 * [XAI Demos](https://github.com/epfl-ml4ed/mlbd-2023/blob/main/lectures/week-13/13-demo-version.ipynb)
-* [Seminar](TBA)
 * [Recording on YouTube](TBA)
 
-Part Two: Multimodality (NLP + Computer Vision) and Coordinate Networks, Federico Stella
+Part Three: Multimodality (NLP + Computer Vision) and Coordinate Networks, Federico Stella
 * [Lecture slides on Multimodality](Multimodality.pdf)
 * [Lecture slides on Coordinate Networks](CoordinateNetworks.pdf)
 * [Useful Jupyter Notebook](https://github.com/moein-shariatnia/OpenAI-CLIP/blob/master/OpenAI%20CLIP%20Simple%20Implementation.ipynb)

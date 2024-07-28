@@ -1,12 +1,12 @@
 # Day 07
 
-Part One:
-* [Lecture slides](TBA)
+Part One: Introduction to NLP, Seyed Parsa Neshaei
+* [Lecture slides](NLP-LauzHack-SummerBootcamp.pdf)
 * [Seminar](TBA)
 * [Recording on YouTube](TBA)
 
-Part Two:
-* [Lecture slides](TBA)
+Part Two: BERT, Knowledge Distillation, GPT and LLMs, Seyed Parsa Neshaei
+* [Lecture slides](NLP-LauzHack-SummerBootcamp.pdf)
 * [Useful GitHub Repo](TBA)
 * [Recording on YouTube](TBA)
 
