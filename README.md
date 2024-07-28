@@ -38,9 +38,9 @@ This is a repository for our new event: a Deep Learning Summer Bootcamp.
     - Seminar 2: PULP-TrainLib
 - [__day07__](./day07) Natural Language Processing
     - Lecture: Introduction to NLP: Tokenization, Embeddings, CBOW, BERT
-    - Seminar: 
+    - Seminar: Embeddings and CBOW
     - Lecture 2: BERT, Knowledge Distillation, GPT and LLMs
-    - Seminar 2: 
+    - Seminar 2: Fine-Tuning BERT, Overview of ChatGPT
 - [__day08__](./day08) DeepRL, XAI, Multimodal Networks and 3D CV
     - Lecture: Deep Reinforcement Learning
     - Lecture 2: Explainable AI (XAI)

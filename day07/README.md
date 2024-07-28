@@ -7,6 +7,6 @@ Part One: Introduction to NLP, Seyed Parsa Neshaei
 
 Part Two: BERT, Knowledge Distillation, GPT and LLMs, Seyed Parsa Neshaei
 * [Lecture slides](NLP-LauzHack-SummerBootcamp.pdf)
-* [Useful GitHub Repo](TBA)
+* [Seminar](https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/pytorch-2-0-bert-text-classification.ipynb)
 * [Recording on YouTube](TBA)
 
