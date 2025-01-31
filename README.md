@@ -4,7 +4,7 @@
 
 Since 2016, LauzHack has organized hackathons at EPFL in Lausanne, Switzerland. We also organize tech talks during the school year. 
 
-This is a repository for our new event: a Deep Learning Summer Bootcamp.
+This is a repository for our new event: a Deep Learning Summer Bootcamp (Summer 2024 Edition).
 
 # Syllabus
 
