@@ -19,6 +19,8 @@ This is a repository for our Deep Learning Bootcamp (Winter 2025 Edition). For p
   - Seminar: RNN, LSTM, GRU example
   - Lecture 2: Transformer
   - Seminar 2: Implementation of Transformer in `pytorch`
+- [**day07**](./day07) Deep Learning for Audio
+  - Lecture: Representing sound digitally, tasks (denoising, speech recognition, text-to-speech, voice conversion, lip-sync)
 
 # Resources
 
