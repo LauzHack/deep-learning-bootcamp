@@ -1,4 +1,4 @@
-# Day 07
+# Day 06
 
 Deep Learning for Audio, Eric Bezzam and Petr Grinberg
 
