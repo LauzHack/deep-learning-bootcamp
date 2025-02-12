@@ -1,4 +1,4 @@
-# Day 06
+# Day 07
 
 Graph Neural Networks, Ali Hariri
 
