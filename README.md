@@ -23,7 +23,7 @@ This is a repository for our Deep Learning Bootcamp (Winter 2025 Edition). For p
   - Lecture: Representing sound digitally, tasks (denoising, speech recognition, text-to-speech, voice conversion, lip-sync)
 - [**day07**](./day07) Graph Neural Networks
   - Lecture: Graph learning, applications, limitations
-  - Seminar: PyTorch-based examples
+  - Seminar: PyTorch-based examples of training GCN and SAGE architectures
 
 # Resources
 
