@@ -24,6 +24,9 @@ This is a repository for our Deep Learning Bootcamp (Winter 2025 Edition). For p
 - [**day07**](./day07) Graph Neural Networks
   - Lecture: Graph learning, applications, limitations
   - Seminar: PyTorch-based examples of training GCN and SAGE architectures
+- [**day08**](./day08) Computer Vision
+  - Lecture: Diffusion models, Vision Transformers, Object Detection, Generalizability, Test-Time Training
+  - Seminar: Diffusion models and test-time training with MNIST
 
 # Resources
 
