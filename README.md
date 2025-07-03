@@ -4,7 +4,7 @@
 
 Since 2016, LauzHack has organized hackathons at EPFL in Lausanne, Switzerland. We also organize tech talks during the school year.
 
-This is a repository for our Deep Learning Bootcamp (Winter 2025 Edition). For previous editions, see [Previous Editions](#previous-editions) section.
+This is a repository for our Deep Learning Bootcamp (Summer 2025 Edition). For previous editions, see [Previous Editions](#previous-editions) section.
 
 # Syllabus
 
@@ -20,7 +20,8 @@ This is a repository for our Deep Learning Bootcamp (Winter 2025 Edition). For p
 - [**day04**](./day04) Transformer
   - Lecture: Transformer
   - Seminar: Implementation of Transformer in `pytorch`
-- [**day05**](./day05) NLP: Basics, BERT, GPT and LLMs
+
+<!-- - [**day05**](./day05) NLP: Basics, BERT, GPT and LLMs
   - Lecture: Basics, BERT, GPT, LLMs
   - Seminar: Text classification with BERT
 - [**day06**](./day06) Deep Learning for Audio
@@ -30,7 +31,7 @@ This is a repository for our Deep Learning Bootcamp (Winter 2025 Edition). For p
   - Seminar: PyTorch-based examples of training GCN and SAGE architectures
 - [**day08**](./day08) Computer Vision
   - Lecture: Diffusion models, Vision Transformers, Object Detection, Generalizability, Test-Time Training
-  - Seminar: Diffusion models and test-time training with MNIST
+  - Seminar: Diffusion models and test-time training with MNIST -->
 
 # Resources
 
@@ -42,9 +43,11 @@ Bootcamp materials and teaching were delivered by:
 
 - Petr Grinberg
 - Seyed Parsa Neshaei
-- Eric Bezzam
-- Ali Hariri
-- Nikita Durasov
+- Badr AlKhamissi
+- Mingchi (Alina) Hou
+- Eric Bezzam (Previously)
+- Ali Hariri (Previously)
+- Nikita Durasov (Previously)
 - Federico Stella (Previously)
 - Atli Kosson (Previously)
 - Cristian Cioflan (Previously)
@@ -53,4 +56,5 @@ Bootcamp materials and teaching were delivered by:
 
 # Previous Editions
 
+- [Winter 2025](https://github.com/LauzHack/deep-learning-bootcamp/tree/winter25/)
 - [Summer 2024](https://github.com/LauzHack/deep-learning-bootcamp/tree/summer24/)
