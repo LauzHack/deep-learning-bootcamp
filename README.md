@@ -14,11 +14,15 @@ This is a repository for our Deep Learning Bootcamp (Winter 2025 Edition). For p
 - [**day02**](./day02) Basic Model Architectures
   - Lecture: Fully-connected and Convolutional Neural Networks, ResNet
   - Seminar: Models in `pytorch` and training pipeline
-- [**day03**](./day03) Transformer and R&D Coding
+- [**day03**](./day03) Recurrent Neural Networks and Normalization
   - Lecture: Recurrent Neural Networks, BatchNorm, LayerNorm
   - Seminar: RNN, LSTM, GRU example
-  - Lecture 2: Transformer
-  - Seminar 2: Implementation of Transformer in `pytorch`
+- [**day04**](./day04) Transformer
+  - Lecture: Transformer
+  - Seminar: Implementation of Transformer in `pytorch`
+- [**day05**](./day05) NLP: Basics, BERT, GPT and LLMs
+  - Lecture: Basics, BERT, GPT, LLMs
+  - Seminar: Text classification with BERT
 - [**day06**](./day06) Deep Learning for Audio
   - Lecture: Representing sound digitally, tasks (denoising, speech recognition, text-to-speech, voice conversion, lip-sync)
 - [**day07**](./day07) Graph Neural Networks
