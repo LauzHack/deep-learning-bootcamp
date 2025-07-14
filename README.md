@@ -14,18 +14,18 @@ This is a repository for our Deep Learning Bootcamp (Summer 2025 Edition). For p
 - [**day02**](./day02) Basic Model Architectures
   - Lecture: Fully-connected and Convolutional Neural Networks, ResNet
   - Seminar: Models in `pytorch` and training pipeline
-- [**day03**](./day03) Recurrent Neural Networks and Normalization
-  - Lecture: Recurrent Neural Networks, BatchNorm, LayerNorm
+- [**day03**](./day03) Recurrent Neural Networks
+  - Lecture: Recurrent Neural Networks, LSTM, GRU
   - Seminar: RNN, LSTM, GRU example
-- [**day04**](./day04) Transformer
-  - Lecture: Transformer
+- [**day04**](./day04) Transformer and Normalization layers. Introduction to NLP.
+  - Lecture: Transformer. BatchNorm, LayerNorm.
   - Seminar: Implementation of Transformer in `pytorch`
+- [**day05**](./day05) Creating convenient Deep Learning pipelines and clean reproducible code.
+  - Lecture: Logging, Configuration, Reproducibility, and Project-based code development.
+- [**day06**](./day06) Large Language Models (LLMs) and Brain-inspired LLMs.
+  - Lecture: Introduction to LLMs and how can we improve them through brain-inspiration.
 
-<!-- - [**day05**](./day05) NLP: Basics, BERT, GPT and LLMs
-  - Lecture: Basics, BERT, GPT, LLMs
-  - Seminar: Text classification with BERT
-- [**day06**](./day06) Deep Learning for Audio
-  - Lecture: Representing sound digitally, tasks (denoising, speech recognition, text-to-speech, voice conversion, lip-sync)
+<!--
 - [**day07**](./day07) Graph Neural Networks
   - Lecture: Graph learning, applications, limitations
   - Seminar: PyTorch-based examples of training GCN and SAGE architectures
@@ -35,7 +35,7 @@ This is a repository for our Deep Learning Bootcamp (Summer 2025 Edition). For p
 
 # Resources
 
-- [Recordings on YouTube](https://youtube.com/playlist?list=PLpYenI2Zwc7ZpUcnP18vDOD__wiwbfoua)
+- [Recordings on YouTube](https://youtube.com/playlist?list=PLpYenI2Zwc7anzzqCBj8KJkyny0xAaUKC)
 
 # Contributors & bootcamp staff
 
