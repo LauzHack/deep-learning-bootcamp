@@ -24,7 +24,7 @@ This is a repository for our Deep Learning Bootcamp (Summer 2025 Edition). For p
   - Lecture: Logging, Configuration, Reproducibility, and Project-based code development.
 - [**day06**](./day06) Large Language Models (LLMs) and Brain-inspired LLMs.
   - Lecture: Introduction to LLMs and how can we improve them through brain-inspiration.
-- [**day07**](./day07) Graph Neural Networks
+- [**day07**](./day07) Multimodal deep learning and deep learning for audio.
   - Lecture: Introduction to audio domain. Multimodality and Generative AI. Deepfakes.
   - Seminar: Basics of audio processing. Keyword-spotting task implementation.
 
