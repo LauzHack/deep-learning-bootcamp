@@ -24,11 +24,11 @@ This is a repository for our Deep Learning Bootcamp (Summer 2025 Edition). For p
   - Lecture: Logging, Configuration, Reproducibility, and Project-based code development.
 - [**day06**](./day06) Large Language Models (LLMs) and Brain-inspired LLMs.
   - Lecture: Introduction to LLMs and how can we improve them through brain-inspiration.
+- [**day07**](./day07) Graph Neural Networks
+  - Lecture: Introduction to audio domain. Multimodality and Generative AI. Deepfakes.
+  - Seminar: Basics of audio processing. Keyword-spotting task implementation.
 
 <!--
-- [**day07**](./day07) Graph Neural Networks
-  - Lecture: Graph learning, applications, limitations
-  - Seminar: PyTorch-based examples of training GCN and SAGE architectures
 - [**day08**](./day08) Computer Vision
   - Lecture: Diffusion models, Vision Transformers, Object Detection, Generalizability, Test-Time Training
   - Seminar: Diffusion models and test-time training with MNIST -->
