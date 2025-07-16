@@ -27,11 +27,13 @@ This is a repository for our Deep Learning Bootcamp (Summer 2025 Edition). For p
 - [**day07**](./day07) Multimodal deep learning and deep learning for audio.
   - Lecture: Introduction to audio domain. Multimodality and Generative AI. Deepfakes.
   - Seminar: Basics of audio processing. Keyword-spotting task implementation.
+- [**day08**](./day08) Source Separation and Deepfake Detection.
+  - Lecture 1: Diffusion models, Source Separation
+  - Lecture 2: Deepfake Detection, Self-Supervised Models, Graph Neural Networks
+  - Seminar 2: Audio anti-spoofing, Graph Neural Networks implementation.
 
 <!--
-- [**day08**](./day08) Computer Vision
-  - Lecture: Diffusion models, Vision Transformers, Object Detection, Generalizability, Test-Time Training
-  - Seminar: Diffusion models and test-time training with MNIST -->
+  -->
 
 # Resources
 
