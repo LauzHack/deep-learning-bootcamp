@@ -35,6 +35,8 @@ This is a repository for our Deep Learning Bootcamp (Summer 2025 Edition). For p
 <!--
   -->
 
+For self-practice, we also propose several [Projects](PROJECTS.md).
+
 # Resources
 
 - [Recordings on YouTube](https://youtube.com/playlist?list=PLpYenI2Zwc7anzzqCBj8KJkyny0xAaUKC)
